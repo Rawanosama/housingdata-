@@ -1,3 +1,5 @@
+# housingdata,diabetes-
+
 # housingdata-
 In this project, we will develop and evaluate the performance and the predictive power of a model trained and tested on data collected from houses
 A model like this would be very valuable for a real state agent who could make use of the information provided in a dayly basis.
